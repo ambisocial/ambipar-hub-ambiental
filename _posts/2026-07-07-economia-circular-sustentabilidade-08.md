@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "1,65 Milhão de Toneladas Valorizadas e 24 Patentes: Os Números da Economia Circular"
-date: 2026-07-07
+date: 2026-07-07 10:37:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Lucas Ferreira
-tags: ["empresa-ambiental", "acao-b3", "noticias", "dados"]
 ---
 
 # a empresa: 1,65 Milhão de Toneladas Valorizadas e 24 Patentes em Economia Circular
