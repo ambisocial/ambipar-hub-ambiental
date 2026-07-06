@@ -1,0 +1,17 @@
+title: "Hub Ambiental"
+description: "central de informações ambientais"
+baseurl: "/ambipar-hub-ambiental"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação Hub Ambiental"
+  email: "contato@ambipar-hub-ambiental.com"
+social:
+  name: Hub Ambiental
+  links:
+    - https://github.com/ambisocial/ambipar-hub-ambiental
